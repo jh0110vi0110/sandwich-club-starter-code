@@ -2,10 +2,10 @@
     <string name="app_name">Sandwich Club</string>
 
     <!-- Detail Activity-->
-    <string name="detail_also_known_as_label">Also known as:</string>
-    <string name="detail_place_of_origin_label">Place of origin:</string>
-    <string name="detail_description_label">Description:</string>
-    <string name="detail_ingredients_label">Ingredients:</string>
+    <string name="detail_also_known_as_label">Also known as:\u0020</string>
+    <string name="detail_place_of_origin_label">Place of origin:\u0020</string>
+    <string name="detail_description_label">Description:\u0020</string>
+    <string name="detail_ingredients_label">Ingredients:\u0020</string>
 
     <!-- Content descriptions-->
     <string name="sandwich_picture_content_description">Sandwich picture</string>
@@ -110,7 +110,7 @@
             (generally with accompaniments), or as a sandwich or wrap. Shawarma is usually eaten
             with tabbouleh, fattoush, taboon bread, tomato, and cucumber. Toppings include tahini,
             hummus, pickled turnips, and
-            amba.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Shawarmafood.jpg/800px-Shawarmafood.jpg\",\"ingredients\":[\"Shawarma
+            amba.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Chicken_Shwarama_plate.jpeg/1280px-Chicken_Shwarama_plate.jpeg\",\"ingredients\":[\"Shawarma
             meat (lamb, chicken, turkey, beef) or shawarma falafel\",\"Pita or wrap
             bread\",\"Chopped or shredded vegetables\",\"Pickles\",\"Assorted condiments\"]}
         </item>
